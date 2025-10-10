@@ -46,4 +46,4 @@
 1. Перейти в каталог `src`.
 2. Скомпілювати всі класи:
 ```bash
-javac postoffice/*.java
+javac post_office/*.java
